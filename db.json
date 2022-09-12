@@ -1,0 +1,133 @@
+{
+  "services": [
+    {
+      "title": "Small Scale Business Loans",
+      "id": 1,
+      "des": "Providing loans which designed for your applications in starting a business",
+      "img": "./s1.jpg"
+    },
+    {
+      "title": "Money Remittance",
+      "id": 2,
+      "des": "Secure simple and most exciting way of your transactions to inter and intra regions",
+      "img": "./s2.jpg"
+    },
+    {
+      "title": "Wealth Management",
+      "id": 3,
+      "des": "We are providing significant services for your betterment of your wealth management by experts",
+      "img": "./s3.jpg"
+    },
+    {
+      "title": "Micro Finance",
+      "id": 4,
+      "des": "Motivate the entrepreneurs across all small villages and rural areas by providing them a better support",
+      "img": "./s4.jpg"
+    }
+  ],
+  "users": [
+    {
+      "fullName": "sa",
+      "userID": "user98",
+      "mobile": "0123456789",
+      "password": "88888888",
+      "id": 1
+    },
+    {
+      "userID": "43555",
+      "mobile": "4355444444",
+      "password": "345346356",
+      "id": 2
+    },
+    {
+      "userID": "43555",
+      "mobile": "4355444444",
+      "password": "345346356",
+      "id": 3
+    },
+    {
+      "userID": "43555",
+      "mobile": "4355444444",
+      "password": "345346356",
+      "id": 4
+    },
+    {
+      "userID": "qweew",
+      "mobile": "1234567890",
+      "password": "1243244324",
+      "id": 5
+    },
+    {
+      "userID": "qweew",
+      "mobile": "1234567890",
+      "password": "1243244324",
+      "id": 6
+    },
+    {
+      "userID": "we435543",
+      "mobile": "1111111111",
+      "password": "2342342342",
+      "id": 7
+    },
+    {
+      "userID": "a34234234",
+      "mobile": "2342342344",
+      "password": "234234324234",
+      "id": 8
+    },
+    {
+      "userID": "we3452345",
+      "mobile": "3333333333",
+      "password": "3234322534534",
+      "id": 9
+    },
+    {
+      "userID": "3443445345",
+      "mobile": "1111111111",
+      "password": "34534dfgsgfd",
+      "id": 10
+    },
+    {
+      "userID": "uig987g08",
+      "mobile": "0000000000",
+      "password": "7g897g978ugy",
+      "id": 11
+    },
+    {
+      "userID": "we3452345",
+      "mobile": "9999999999",
+      "password": "8g8uigo8giu0",
+      "id": 12
+    },
+    {
+      "userID": "rerwerwerwer",
+      "mobile": "3333333333",
+      "password": "435346346",
+      "id": 13
+    },
+    {
+      "userID": "rerwerwerwerwqr",
+      "mobile": "3333333333",
+      "password": "435346346",
+      "id": 14
+    },
+    {
+      "userID": "rerwerwerwerwqr",
+      "mobile": "3333333333",
+      "password": "435346346",
+      "id": 15
+    },
+    {
+      "userID": "rerwerwerwerwqr",
+      "mobile": "3333333333",
+      "password": "435346346",
+      "id": 16
+    },
+    {
+      "userID": "rerwerwerwerwqr",
+      "mobile": "3333333333",
+      "password": "435346346",
+      "id": 17
+    }
+  ]
+}
